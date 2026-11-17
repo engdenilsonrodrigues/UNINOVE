@@ -2,6 +2,7 @@
 
 - **Carga horária total:** 360 h (10 disciplinas de 36 h)
 - **Duração:** 12 meses
+- **Início:** 25/12/2026
 - **Horas concluídas (aprovado):** 0 h
 - **Média das notas:** -
 

@@ -2,7 +2,7 @@
 
 ## Visão geral
 
-A pós-graduação é da Uninove e tem 10 disciplinas de 36 h cada, total de 360 h em 12 meses. Gestão de TI na Era da Indústria 4.0 está em andamento (C); as outras 9 estão a cursar (AC).
+A pós-graduação é da Uninove e tem 10 disciplinas de 36 h cada, total de 360 h em 12 meses, com início em 25/12/2026. Gestão de TI na Era da Indústria 4.0 está em andamento (C); as outras 9 estão a cursar (AC).
 
 As seções seguem uma ordem de estudo sugerida: primeiro a base (Python, dados e estatística), depois os modelos e, no fim, a aplicação em projetos. Cada seção traz os temas, um espaço de anotação ao lado de cada tema, os pontos-chave e perguntas de revisão para as avaliações.
 

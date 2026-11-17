@@ -1,6 +1,6 @@
 # UNINOVE — Pós-graduação em IA e Aprendizagem de Máquina
 
-Material de estudo da pós-graduação em Inteligência Artificial e Aprendizagem de Máquina da Uninove (10 disciplinas, 360 h, 12 meses).
+Material de estudo da pós-graduação em Inteligência Artificial e Aprendizagem de Máquina da Uninove (10 disciplinas, 360 h, 12 meses, início em 25/12/2026).
 
 | Arquivo | O que é |
 | --- | --- |
